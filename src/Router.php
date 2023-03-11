@@ -25,7 +25,7 @@
 
 namespace Marmot\Core;
 
-final class Kernel
+final class Router
 {
 
 }
