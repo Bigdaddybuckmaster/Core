@@ -1,0 +1,20 @@
+{
+    "name": "marmot/core",
+    "description": "Core of the Marmot framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Marmot\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin Traini",
+            "email": "kevin@ktraini.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
